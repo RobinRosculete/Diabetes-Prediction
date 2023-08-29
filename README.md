@@ -1,4 +1,4 @@
-# Diabetes Prediction 
+# Diabetes Prediction Data Analysis and Prediction
 
 ## Introduction
 

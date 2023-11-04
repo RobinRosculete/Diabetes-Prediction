@@ -1,4 +1,4 @@
-# Diabetes Prediction Data Analysis and Prediction
+# Diabetes Data Analysis and Prediction
 
 ## Introduction
 
@@ -17,11 +17,11 @@ An important point of this project was the exploration of the dataset. This cons
 
 ![Diabetes Prediction Data Correlation](https://github.com/RobinRosculete/Diabetes-Prediction/blob/main/img/Diabetes%20Data%20Correlation.png)
 
-## ALgorithm
+## Algorithm
 The Algorithm trained on the preprocessed data was a **Artificial Neural Network** consisting of 2 hidden layers with a total of 4,801 parameters.
 
 ## Resuts
-The outcomes of the neural network model showcase good levels of accuracy during both the training and testing phases. Notably, the testing phase resulted in an accuracy score of **83.12%**. The model was also evaluated using a cofusion matrix and classification report
+The outcomes of the neural network model showcase good levels of accuracy during both the training and testing phases. Notably, the testing phase resulted in an accuracy score of **83.12%**. The model was also evaluated using a confusion matrix and classification report
 
 ![Diabetes Prediction Results](https://github.com/RobinRosculete/Diabetes-Prediction/blob/main/img/Diabetes%20Prediction%20Results.png)
 
